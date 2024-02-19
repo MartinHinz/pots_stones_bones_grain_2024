@@ -106,4 +106,8 @@ Switzerland presents a unique case where the inception of Neolithic practices is
 
 Data were obtained from the Neotoma Paleoecology Database (<http://www.neotomadb.org)> and its constituent databases. The work of data contributors, data stewards, and the Neotoma community is gratefully acknowledged.
 
+## Availability of Data and Code
+
+All data was obtained from freely accessible and open access sources. The manuscript and the code to create the figures can be found on the following GitHub repository: <https://github.com/MartinHinz/pots_stones_bones_grain_2024>. A version-controlled long-term storage version can be found on Zenodo with the following DOI: <https://zenodo.org/doi/10.5281/zenodo.10680503>.
+
 ## References
